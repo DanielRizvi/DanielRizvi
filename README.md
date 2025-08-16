@@ -1,15 +1,22 @@
 # 💫 About Me:
-Hi there 👋  
-I'm an **AI Research Scientist** from **IIT Ropar**, working to push the boundaries of Artificial Intelligence and Machine Learning.  
+✨ Hi, I’m Daniel Rizvi 👋
 
-🔬 Building cutting-edge solutions @ **TDRC**  
-🎓 Certified in **26 AI/ML specializations**  
-🏆 Recognized as a **50 UNDER 50 - Young Data Scientist**  
-🧠 Passionate about **tinyML, Algebraic Topology, and innovative research**  
-📜 Holder of **2 Patents in AI/ML**  
-💬 Bridging the gap between **research and development** as a DevRel  
-🌐 Let's connect and collaborate to create impactful solutions in AI & beyond!  
+🚀 AI Research Scientist | Innovator | DevRel
 
+🔬 Pushing the frontiers of Artificial Intelligence & Machine Learning at The Daniel Rizvi Company (TDRC).
+📜 2x Patent Holder in AI/ML | 🎓 26+ Specializations Certified
+🏆 Honored among 50 UNDER 50 – Young Data Scientists
+
+💡 Passionate about:
+
+🧠 tinyML & Algebraic Topology
+
+🔗 Bridging theory → real-world impact
+
+🌐 Driving collaboration between research, industry & community
+
+🌱 Always exploring new ideas, scaling innovation, and inspiring the next wave of AI breakthroughs.
+🤝 Let’s connect and co-create the future of AI!
 
 ---
 ## 💰 Support Me
