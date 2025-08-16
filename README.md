@@ -10,11 +10,11 @@
 ## 🔬 About Me
 I’m passionate about **AI, Machine Learning, and creating innovative solutions** that make a real impact. I combine research, development, and design to build products, conduct workshops, and share knowledge globally.
 
-- 🏆 **JJ Crowns Gold Medalist** for AI/ML  
+- 🏆 **Gold Medalist** for AI/ML  
 - 🏅 **50 Under 50 - Young Data Scientist Award 2024**  
 - 📚 **Author** in IEEE, Springer & Taylor & Francis  
 - 💡 **2 Patents** in AI for Healthcare & Computation  
-- 🎓 **University Gold Medalist in B.Tech (CSE)**  
+- 🎓 **Specilization @ AI - IIT Ropar**  
 - 🎥 **ML Video Lectures** on YouTube covering AI, Math, Philosophy, and more  
 - 🎤 **Workshops & Talks** at universities and institutes worldwide  
 - 🛠️ **Product & Software Designer | UX Researcher**  
