@@ -10,10 +10,6 @@ I'm an **AI Research Scientist** from **IIT Ropar**, working to push the boundar
 💬 Bridging the gap between **research and development** as a DevRel  
 🌐 Let's connect and collaborate to create impactful solutions in AI & beyond!  
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
 ## 💰 Support Me
