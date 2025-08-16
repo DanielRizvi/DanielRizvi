@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Rizvi
 
 ![header](https://img.shields.io/badge/Young_Data_Scientist-2024-blue)
-![badge](https://img.shields.io/badge/JJ_Crowns_Gold_Medalist-AI_ML-yellow)
+![badge](https://img.shields.io/badge/Gold_Medalist-AI_ML-yellow)
 ![badge](https://img.shields.io/badge/26%2B_Certifications-brightgreen)
 ![badge](https://img.shields.io/badge/Patents-2-red)
 
@@ -44,5 +44,5 @@ I’m passionate about **AI, Machine Learning, and creating innovative solutions
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/danial-rizvi-531758214/)  
+- GitHub: [github.com/yourusername](https://github.com/DanielRizvi)  
