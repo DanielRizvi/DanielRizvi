@@ -13,7 +13,7 @@ I’m passionate about **AI, Machine Learning, and creating innovative solutions
 - 🏆 **Gold Medalist** for AI/ML  
 - 🏅 **50 Under 50 - Young Data Scientist Award 2024**  
 - 📚 **Author** in IEEE, Springer & Taylor & Francis  
-- 💡 **2 Patents** in AI for Healthcare & Computation  
+- 💡 **3 Patents** in AI for Healthcare & Computation  
 - 🎓 **Specilization @ AI - IIT Ropar**  
 - 🎥 **ML Video Lectures** on YouTube covering AI, Math, Philosophy, and more  
 - 🎤 **Workshops & Talks** at universities and institutes worldwide  
