@@ -3,7 +3,7 @@
 ![header](https://img.shields.io/badge/Young_Data_Scientist-2024-blue)
 ![badge](https://img.shields.io/badge/Gold_Medalist-AI_ML-yellow)
 ![badge](https://img.shields.io/badge/26%2B_Certifications-brightgreen)
-![badge](https://img.shields.io/badge/Patents-2-red)
+![badge](https://img.shields.io/badge/Patents-4-red)
 
 ---
 
